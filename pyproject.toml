@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pycomplexity"
-version = "1.0.0"
+version = "1.0.2"
 description = "runtime complexity analyzer for python"
 readme = "README.md"
 license = "MIT"
