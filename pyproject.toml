@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "pycomplexity"
 version = "1.0.0"
 description = "runtime complexity analyzer for python"
+readme = "README.md"
 license = "MIT"
 authors = [
     {name = "Oracle", email = "unknownfrench@proton.me"}
