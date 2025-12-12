@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pycomplexity",
-    version="1.0.0",
+    version="1.0.2",
     author="Oracle",
     author_email="unknownfrench@proton.me",
     description="runtime complexity analyzer for python",
